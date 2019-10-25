@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/SWAPI/.vs/SWAPI
+/SWAPI/obj
+/SWAPI.Tests/obj
+/SWAPI/bin/Debug/netcoreapp3.0
+/SWAPI.Tests/bin/Debug/netcoreapp3.0
