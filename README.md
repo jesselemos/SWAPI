@@ -3,6 +3,8 @@ This is a application to show a collection of all the star ships and calculate t
 
 # Environment Description
 This application is a Console Application writed in C# language using Visual Studio Community 2019 Version 16.3.6 and .Net Core 3.0.100 SDK.
+![Image of VS2019](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/VS2019.PNG?raw=true)
+![Image of NetCore](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/NetCoreVersion.PNG?raw=true)
 
 **IMPORTANT!**
 To run this application in older version of Visual Studio is necessary downgrade the Version of .Net Core to 2.2 Version.
@@ -18,7 +20,7 @@ Download the .Net Core 3.0 SDK or only Runtime version if you doesn´t use it to
 # Running Integration and Unit Tests
 The environment setup descripted above is the same. After done the setup you Can rigth click on SWAPI.Tests and click Run Tests. After that open TestExplorer window to see the results.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Tests](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/Tests.PNG?raw=true)
 
 # Running Console Application
 After done the setup you Can rigth click on SWAPI project and click in Debug -> Start new instance or simple press F5 o run after that folow the screen intructions. 
