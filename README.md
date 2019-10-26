@@ -8,7 +8,8 @@ and .Net Core 3.0.100 SDK.
 ![Image of NetCore](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/NetCoreVersion.PNG?raw=true)
 
 **IMPORTANT!**
-To run this application in older version of Visual Studio is necessary downgrade the Version of .Net Core to 2.2 Version.
+To run this application in older version of Visual Studio is necessary downgrade the Version of .Net Core to 2.2 Version or below.
+To change it go to Target Framework of all projects like the image above and put older versions.
 
 # Environment Setup
 You can create your setup for free with communit versions of Visual Studio:
