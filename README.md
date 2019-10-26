@@ -10,6 +10,7 @@ To run this application in older version of Visual Studio is necessary downgrade
 # Environment Setup
 You can create your setup for free with communit versions of Visual Studio:
 [Visual Studio 2019 Download](https://visualstudio.microsoft.com/downloads)
+
 Download the .Net Core 3.0 SDK or only Runtime version if you doesn´t use it to develop applications
 [.Net Core 3.0 SDK and Runtime Download](https://dotnet.microsoft.com/download/dotnet-core/3.0)
 
@@ -17,3 +18,6 @@ Download the .Net Core 3.0 SDK or only Runtime version if you doesn´t use it to
 # Running Integration and Unit Tests
 The environment setup descripted above is the same. After done the setup you Can rigth click on SWAPI.Tests and click Run Tests. After open TestExplorer window to see the results.
 
+# Running Console Application
+After done the setup you Can rigth click on SWAPI project and click in Debug -> Start new instance or simple press F5 o run after that folow the screen intructions. 
+**Enjoy!**
