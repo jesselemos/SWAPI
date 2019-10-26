@@ -27,3 +27,6 @@ The environment setup descripted above is the same. After done the setup you Can
 # Running Console Application
 After done the setup you Can rigth click on SWAPI project and click in Debug -> Start new instance or simple press F5 o run after that folow the screen intructions. 
 **Enjoy!**
+
+![Image of App 1](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/App1.PNG?raw=true)
+![Image of App 1](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/App2.PNG?raw=true)
