@@ -2,8 +2,9 @@
 This is a application to show a collection of all the star ships and calculate the total amount of stops required to make the distance between the planets.
 
 # Environment Description
-This application is a Console Application writed in C# language using Visual Studio Community 2019 Version 16.3.6 and .Net Core 3.0.100 SDK.
-![Image of VS2019](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/VS2019.PNG?raw=true)
+This application is a Console Application writed in C# language using Visual Studio Community 2019 Version 16.3.6 
+![Image of VS2019](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/VS2019.PNG)
+and .Net Core 3.0.100 SDK.
 ![Image of NetCore](https://github.com/jesselemos/SWAPI/blob/master/Documentation/Images/NetCoreVersion.PNG?raw=true)
 
 **IMPORTANT!**
