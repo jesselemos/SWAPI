@@ -5,7 +5,17 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SWAPI", "SWAPI\SWAPI.csproj", "{4809FF01-8357-46CF-9534-E860DF167563}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWAPI.Tests", "SWAPI.Tests\SWAPI.Tests.csproj", "{2A1B1FF1-30BB-4D57-8D27-88B0638611B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SWAPI.Tests", "SWAPI.Tests\SWAPI.Tests.csproj", "{2A1B1FF1-30BB-4D57-8D27-88B0638611B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{AF0CE71A-996B-4C04-8B16-B6B90DB13B62}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{D0148B9A-58BC-4B51-8034-26F55FE4E978}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Images\Tests.PNG = Documentation\Images\Tests.PNG
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +34,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0148B9A-58BC-4B51-8034-26F55FE4E978} = {AF0CE71A-996B-4C04-8B16-B6B90DB13B62}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BF1E868D-9B42-4D50-A139-6AB30D607CF6}
