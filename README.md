@@ -18,6 +18,8 @@ Download the .Net Core 3.0 SDK or only Runtime version if you doesn´t use it to
 # Running Integration and Unit Tests
 The environment setup descripted above is the same. After done the setup you Can rigth click on SWAPI.Tests and click Run Tests. After open TestExplorer window to see the results.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # Running Console Application
 After done the setup you Can rigth click on SWAPI project and click in Debug -> Start new instance or simple press F5 o run after that folow the screen intructions. 
 **Enjoy!**
